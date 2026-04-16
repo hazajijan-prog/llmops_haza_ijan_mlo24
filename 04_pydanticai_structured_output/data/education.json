@@ -1,0 +1,20 @@
+{
+  "education_name": "MLOps Engineer",
+  "program_description": "Programmet förbereder studenter att bygga, driftsätta och optimera maskininlärningsmodeller i verkligheten. Det kombinerar teknisk bakgrund med praktisk erfarenhet av att arbeta med verktyg som TensorFlow och PyTorch, samt CI/CD-pipelines, versionshantering, säkerhet och edge computing. Utbildningen bedrivs främst på svenska med engelskt kursmaterial, vilket förbereder för en internationell arbetsmiljö. Programmet inkluderar minst en fjärdedels LIA-praktik för att säkerställa praktisk kompetens.",
+  "career_options": [
+    "MLOps Engineer",
+    "AI Systems Specialist",
+    "Machine Learning Engineer",
+    "Data Science Engineer",
+    "Cloud AI Solutions Architect"
+  ],
+  "courses": [
+    "TensorFlow och PyTorch",
+    "CI/CD-pipelines",
+    "Versionshantering",
+    "Säkerhet i maskininlärning",
+    "Edge computing",
+    "Data-driven beslutsfattande"
+  ],
+  "length": 30.0
+}
